@@ -1,0 +1,29 @@
+{
+    "name": "rapthera/minecraft-query",
+    "description": "Simple library to query minecraft servers.",
+    "keywords": [
+        "minecraft",
+        "query",
+        "library"
+    ],
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Rapthera",
+            "email": "tehtommy1337@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "5.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "0.9.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rapthera\\Minecraft-Query": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
