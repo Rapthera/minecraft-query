@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rapthera\\Minecraft-Query": "src/"
+            "Rapthera\\Query\\": "src"
         }
     },
     "minimum-stability": "dev"
