@@ -16,14 +16,14 @@ class Query
      */
     protected $port;
 
-    /*
+    /**
      * Contains the minecraft version
      *
      * @string $version
      */
     protected $version;
 
-    /*
+    /**
      * Connect to the server
      *
      * @param String $address
